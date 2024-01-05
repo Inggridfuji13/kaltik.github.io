@@ -9,7 +9,7 @@ body{
   border-bottom: 3px solid #1F4287;
   background-color: white;
   position: fixed;
-  width: 99%;
+  width: 100%;
   top: 0;
   overflow: hidden;
 }
@@ -33,6 +33,10 @@ a:hover{
   background: #deeaff;
 	border-radius: 5px;
   padding: 8px;
+}
+
+#a-form-around{
+  margin-right: 15px;
 }
 
 .welcome{
